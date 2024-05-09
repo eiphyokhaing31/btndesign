@@ -1,0 +1,248 @@
+.container1{
+    display: block;
+    margin: 10px 10px;
+}
+
+
+.primary{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border: 1px solid rgb(0, 162, 255) ;
+    border-radius: 5px;
+    background-color: rgb(0, 162, 255);
+    color: white;
+
+}
+.second{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: gray;
+    color: white;
+}
+.sucess{
+    margin: 10px 10px;
+    ppadding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border: 1px solid green;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+}
+
+.info{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+}
+.warn{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid yellow;
+    background-color: yellow;
+    color: white;
+}
+.danger{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+}
+.round{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 50px;
+    border: 1px solid rgb(102, 164, 205);
+    background-color: rgb(102, 164, 205);
+    color: white;
+}
+.search{
+    
+    border: 1px solid rgb(102, 164, 205);
+    border-radius: 100px;
+    background-color: rgb(102, 164, 205);
+    color: blue;
+}
+
+.container2{
+    padding: 10px;
+    display: block;
+    margin-top: 10px 10px;
+}
+.icon{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid  rgb(0, 162, 255);
+    background-color:  rgb(0, 162, 255);
+    color: white;
+}
+
+.dash{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px dotted rgb(0, 162, 255);
+    background-color: white;
+    color: rgb(0, 162, 255);
+}
+
+.link{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid white;
+    background-color: white;
+    color: rgb(0, 162, 255);
+}
+
+.click{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid  rgb(0, 162, 255);
+    background-color:  rgb(0, 162, 255);
+    color: white;
+}
+
+.jelly{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid  rgb(0, 162, 255);
+    background-color:  rgb(0, 162, 255);
+    color: white;
+}
+.fill{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid rgb(0, 162, 255);
+    background-color: white;
+    color: rgb(0, 162, 255);
+}
+
+.pulse{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid rgb(0, 162, 255);
+    background-color: rgb(0, 162, 255);
+    color: white;
+}
+.open{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid rgb(0, 162, 255);
+    background-color: white;
+    color: rgb(0, 162, 255);
+}
+
+.container3{
+    display: inline-block;
+    margin-top: 10px 10px;
+}
+
+.slide{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid rgb(0, 162, 255);
+    background-color: white;
+    color: rgb(0, 162, 255);
+}
+.through{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid rgb(0, 162, 255);
+    background-color: white;
+    color: rgb(0, 162, 255);
+}
+
+.flip{
+    margin: 10px 10px;
+     padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    
+    border: 1px solid rgb(0, 162, 255);
+    background-color: rgb(0, 162, 255);
+    color: white;
+}
+
+.mar{
+    margin-top: 50px;
+    width: 100px;
+    height: 45px;
+    margin: 10px 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 30px;
+    border: 1px solid rgb(0, 162, 255);
+    background-color: rgb(0, 162, 255);
+    color: white;
+}
+
+.cross{
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid rgb(0, 162, 255);
+    background-color: white;
+    color: rgb(0, 162, 255);
+}
+
+.line{
+    margin: 10px 10px;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid white;
+    background-color: white;
+    color: rgb(0, 162, 255);
+}
